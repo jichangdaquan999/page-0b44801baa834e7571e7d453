@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "fb01f142fe97473470952b51",
+  "owner": "jichangdaquan999",
+  "repo": "page-0b44801baa834e7571e7d453",
+  "title": "辣炒巨蜥",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "0b44801baa834e7571e7d453",
+      "a": "辣炒巨蜥",
+      "b": "2027最新官网",
+      "entity": "辣炒巨蜥",
+      "brand": "辣炒巨蜥",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "7124c1b1692326cf1644f6766002eeb3fc6ec4047459e643bfcca2c13a381fe2",
+      "content": {
+        "primary_entity": "辣炒巨蜥",
+        "keyword1": "辣炒巨蜥",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，在设置中添加订阅链接即可开始使用。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "选好套餐并导入订阅，就能按自己的节奏使用海外加速。",
+          "AI_CLOSING_TITLE": "开始使用辣炒巨蜥",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档套餐，分别对应每月 100GB、300GB 与 1000GB 流量，可同时在线 3 台、5 台与 20 台设备。旗舰版与团队版配备专线或高带宽节点，适合流媒体观看与游戏加速。按年付可享更低的月均价格，订阅配置完成后在对应客户端中导入即可使用。",
+          "AI_FEATURES_INTRO": "从设备数量、流量和节点类型三个方面对比套餐，能更快找到合适的档位。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量，支持 3 台设备，适合手机与平板等少量终端场景。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量，支持 5 台设备，含原生流媒体解锁与专线游戏优化。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量，支持 20 台设备，配 VIP 高带宽节点与企业定制路由。",
+          "AI_FEATURE_TITLE_1": "流量与设备匹配",
+          "AI_FEATURE_TITLE_2": "流媒体与游戏",
+          "AI_FEATURE_TITLE_3": "多人团队使用",
+          "AI_GUIDE_INTRO": "先确定设备数量与流量需求，再按客户端文档完成订阅配置。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_HERO_INTRO": "辣炒巨蜥面向需要海外网络加速的用户，提供基础版、旗舰版与团队版三档订阅。不同套餐对应不同流量与设备数量，可按观看流媒体、游戏加速或多人共享等用途选择。",
+          "AI_HERO_SUBTITLE": "三档套餐按需选",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人与团队",
+          "AI_HIGHLIGHT_2": "按年付月均价格更低",
+          "AI_HIGHLIGHT_3": "专线与高带宽节点可选",
+          "AI_PLANS_INTRO": "基础版适合少量设备，旗舰版兼顾流媒体与游戏，团队版满足多人高流量需求。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常设备数量与月流量需求，在基础版、旗舰版和团队版中确定一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的设备数量与节点类型，确认与自己的使用场景匹配。",
+          "AI_STEP_TEXT_3": "按对应客户端的使用文档添加订阅链接，完成配置后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "辣炒巨蜥海外加速",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "辣炒巨蜥三档套餐价格分别是多少？",
+          "AI_FAQ_ANSWER_1": "基础版月付 ¥15、年付 ¥150；旗舰版月付 ¥35、年付 ¥350；团队版月付 ¥85、年付 ¥850。年付按整年计费，适合确认长期使用的用户。",
+          "AI_FAQ_QUESTION_2": "每月流量用超了会怎样？",
+          "AI_FAQ_ANSWER_2": "各套餐设有每月流量额度，基础版 100GB、旗舰版 300GB、团队版 1000GB。流量接近上限时可考虑升级档位，具体处理方式以订阅说明为准。",
+          "AI_FAQ_QUESTION_3": "支持几台设备同时在线？",
+          "AI_FAQ_ANSWER_3": "基础版支持 3 台、旗舰版支持 5 台、团队版支持 20 台设备同时在线。统计日常使用的手机、电脑与平板总数后对应选择即可。",
+          "AI_FAQ_QUESTION_4": "手机和电脑客户端怎么选？",
+          "AI_FAQ_ANSWER_4": "iOS 常用 Shadowrocket 或 Quantumult X，Android 与桌面端可用 Clash、V2RayN 等。按系统选择对应客户端，并按客户端文档导入订阅。",
+          "AI_FAQ_QUESTION_5": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_5": "月付按月结算、灵活度较高，年付一次性支付整年费用，单月成本更低。三档套餐均提供两种周期，可按使用时长预期选择。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "jisucloudjichang.com",
+    "host": "jisucloudjichang.com"
+  },
+  "file_hashes": {
+    "index.html": "3a3f797a7e0b41273484827e4553661671faaf61f0529375822df0c65610550c",
+    "sitemap.xml": "68bf23d7ae84071e75f95f9e7f4ba08d3750b6bcb257714e04c70faafa5106c8",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "b5d2a176a707f8ec22cae6ca815f3e8612723b0d42d280e3d0858eb0f22b1330",
+    "robots.txt": "dfabfa2ac1473501349190b3edb844b03ef9d9b10a0599fc59d4ec54bb07e868",
+    "11e0695ad04b53f7fd5cf2ecd0983f9e.txt": "6d71c715356d2e69e4913c0843aa8bd333190755ecab820f19a84b63ae2f6872"
+  },
+  "revision": "e8b239da4347dc6d754d16e03bebbbabe4065685746f90e64211fc14f68edf77"
+}
